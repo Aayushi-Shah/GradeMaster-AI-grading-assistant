@@ -72,7 +72,7 @@ npm install
 npm run build
  ⁠
 
-The application will be available at ⁠ http://localhost:5001 ⁠
+The application will be available at ⁠http://localhost:5001 after you run it on your local machine.⁠
 
 ---
 
